@@ -15,7 +15,7 @@ My journey in learning about computer hardware and software has led me to develo
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC SOAR EDR           | <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>|
-| Network Traffic Monitoring and Attack Detection | <a ">Detection Lab</a>|
+| Active Directory project with Brute force attack | <a href= ">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
