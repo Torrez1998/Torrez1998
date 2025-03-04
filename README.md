@@ -15,7 +15,7 @@ My journey in learning about computer hardware and software has led me to develo
 |-----------------------------------------------|----------------------------|
 | SOC SOAR EDR           | <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>|
 | Active Directory project with Brute force attack | <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Host Ticketing system using Docker in the cloud         | <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -57,3 +57,4 @@ My journey in learning about computer hardware and software has led me to develo
 ## Projects
 - <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>
 - <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>
+- <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>
