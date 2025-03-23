@@ -45,6 +45,7 @@ My journey in learning about computer hardware and software has led me to develo
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_IAM-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-FFC107?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" />
@@ -52,6 +53,10 @@ My journey in learning about computer hardware and software has led me to develo
     <img src="https://img.shields.io/badge/-LimaCharlie-1679A7?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
 
+### Pen Testing Tools
+<div>
+    <img src="https://img.shields.io/badge/-Crowbar-000000?&style=for-the-badge&logo=gnometerminal&logoColor=white)" />
+</div>
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
