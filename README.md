@@ -26,10 +26,10 @@ My journey in learning about computer hardware and software has led me to develo
 
 <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
 
-### Network
+### Network 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Tenable-00A1DE?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ### Endpoint
