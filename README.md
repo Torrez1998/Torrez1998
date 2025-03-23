@@ -59,3 +59,4 @@ My journey in learning about computer hardware and software has led me to develo
 - <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>
 - <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>
 - <a href="https://github.com/Torrez1998/AWS-IAM-PROJECT">AWS-IAM-PROJECT</a>
+- <a href="https://github.com/Torrez1998/Azure-Tenable-Vulnerability--management-project">Azure-Tenable-Vulnerability-Management-Project</a>
