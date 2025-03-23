@@ -57,13 +57,14 @@ My journey in learning about computer hardware and software has led me to develo
 <div>
     <img src="https://img.shields.io/badge/-Crowbar-000000?&style=for-the-badge&logo=gnometerminal&logoColor=white)" />
 </div>
-## Certifications
+
+### Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+### Projects
 - <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>
 - <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>
 - <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>
