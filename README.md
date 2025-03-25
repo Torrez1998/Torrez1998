@@ -71,3 +71,4 @@ My journey in learning about computer hardware and software has led me to develo
 - <a href="https://github.com/Torrez1998/AWS-IAM-PROJECT">AWS-IAM-PROJECT</a>
 - <a href="https://github.com/Torrez1998/Azure-Tenable-Vulnerability--management-project">Azure-Tenable-Vulnerability-Management-Project</a>
 - <a href="https://github.com/Torrez1998/Threat-Hunting-Scenario-Tor">Threat-Hunting-Scenario-Tor</a>
+- <a href="https://github.com/Torrez1998/Threat-Hunt-Azure--Abuse">Threat-Hunting-Scenario-Azure-Abuse</a>
