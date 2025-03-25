@@ -14,11 +14,11 @@ My journey in learning about computer hardware and software has led me to develo
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SOC SOAR EDR implementation          | <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>|
-| Active Directory project with Brute force attack | <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>|
-| Host Ticketing system using Docker in the cloud         | <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>|
+| Active Directory Project with Brute Force Attack | <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>|
+| Host Ticketing system using Docker in the Cloud         | <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>|
 | Creating User groups and users using AWS IAM      | <a href="https://github.com/Torrez1998/AWS-IAM-PROJECT">AWS-IAM-PROJECT</a>|
-| Vulnerability management with Azure/Tenable                  | <a href="https://github.com/Torrez1998/Azure-Tenable-Vulnerability--management-project">Azure-Tenable-Vulnerability-Management-Project</a>|
-| Threat hunting in company network | <a href="https://github.com/Torrez1998/Threat-Hunting-Scenario-Tor">Threat-Hunting-Scenario-Tor</a>|
+| Vulnerability Management with Azure/Tenable                  | <a href="https://github.com/Torrez1998/Azure-Tenable-Vulnerability--management-project">Azure-Tenable-Vulnerability-Management-Project</a>|
+| Threat hunting in Company Network | <a href="https://github.com/Torrez1998/Threat-Hunting-Scenario-Tor">Threat-Hunting-Scenario-Tor</a>|
 | | <a href="https://github.com/Torrez1998/Threat-Hunt-Azure--Abuse">Threat-Hunting-Scenario-Azure-Abuse</a>|
 
 ## Tools
