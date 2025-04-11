@@ -58,6 +58,7 @@ My journey in learning about computer hardware and software has led me to develo
     <img src="https://img.shields.io/badge/-Linode-00A95C?&style=for-the-badge&logo=Linode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tines-1679A7?&style=for-the-badge&logo=Tines&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-1679A7?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LaZagne-4B0082?style=for-the-badge&logoColor=white" />
     
 </div>
 
