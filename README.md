@@ -41,7 +41,7 @@ My journey in learning about computer hardware and software has led me to develo
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LaZagne-4B0082?style=for-the-badge&logoColor=white" />
+ 
     
 </div>
 
@@ -59,12 +59,15 @@ My journey in learning about computer hardware and software has led me to develo
     <img src="https://img.shields.io/badge/-Linode-00A95C?&style=for-the-badge&logo=Linode&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tines-1679A7?&style=for-the-badge&logo=Tines&logoColor=white" />
     <img src="https://img.shields.io/badge/-LimaCharlie-1679A7?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LaZagne-4B0082?style=for-the-badge&logoColor=white" />
     
 </div>
 
 ### Pen Testing Tools
 <div>
     <img src="https://img.shields.io/badge/-Crowbar-000000?&style=for-the-badge&logo=gnometerminal&logoColor=white)" />
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-FF0000?style=for-the-badge&logoColor=white" />
+Preview:
 </div>
 
 ### Certifications
