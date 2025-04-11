@@ -5,7 +5,7 @@
 
 This repository is dedicated to my cybersecurity journey as I learn and develop skills to become a SOC Analyst. Here you'll find hands-on projects, tools, and notes focused on **threat detection**, **log analysis**, **SIEM use cases**, **incident response** and **Threat Hunting**.
 
-You cannot Secure something you dont understand.
+You cannot Secure systems or software you dont understand.
 
 ## Objective
 
