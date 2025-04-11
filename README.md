@@ -67,7 +67,7 @@ My journey in learning about computer hardware and software has led me to develo
 <div>
     <img src="https://img.shields.io/badge/-Crowbar-000000?&style=for-the-badge&logo=gnometerminal&logoColor=white)" />
     <img src="https://img.shields.io/badge/-John%20the%20Ripper-FF0000?style=for-the-badge&logoColor=white" />
-Preview:
+    
 </div>
 
 ### Certifications
