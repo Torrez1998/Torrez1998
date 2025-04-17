@@ -15,7 +15,7 @@ My journey in learning about computer hardware and software has led me to develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC SOAR EDR implementation          | <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>|
+| SOC SOAR EDR implementation using Tines + Limacharlie + Slack        | <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>|
 | Active Directory using Splunk Server,Sysmon, and Kali Linux with brute force attack | <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>|
 | Host Ticketing system using Docker and Linode         | <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>|
 | Creating User groups and users using AWS IAM      | <a href="https://github.com/Torrez1998/AWS-IAM-PROJECT">AWS-IAM-PROJECT</a>|
