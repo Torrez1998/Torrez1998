@@ -4,8 +4,8 @@
 # Welcome to My Cybersecurity Projects 👾🔍
 
 This repository is dedicated to my cybersecurity journey as I learn and develop skills to become a SOC Analyst. Here you'll find hands-on projects, tools, and notes focused on **threat detection**, **log analysis**, **SIEM use cases**, **incident response** and **Threat Hunting**.
-
-You cannot Secure systems or software you dont understand.
+I am most Proficient in Azure but I use multiple types of cloud platforms in my projects to show, once you know one platform you can learn any other quickly.
+You can't Secure systems or software you dont understand.
 
 ## Objective
 
