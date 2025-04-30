@@ -17,7 +17,7 @@ My journey in learning about computer hardware and software has led me to develo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure Live Traffic SOC & Honeynet        | <a href="https://github.com/Torrez1998/Live-Traffic-SOC-HoneyNet">SOC & Honeynet</a>|
+| Set up Live Traffic SOC & Honeynet        | <a href="https://github.com/Torrez1998/Live-Traffic-SOC-HoneyNet">Azure Live Traffic SOC & Honeynet</a>|
 | SOC SOAR EDR implementation using Tines + Limacharlie + Slack        | <a href="https://github.com/Torrez1998/SOAR-EDR-Integration-Project">SOAR EDR</a>|
 | Active Directory using Splunk Server, Sysmon, and Kali Linux with brute force attack | <a href="https://github.com/Torrez1998/Active-Directory-project">Active-Directory-Project</a>|
 | Host Ticketing system using Docker and Linode         | <a href="https://github.com/Torrez1998/Host-Ticketing-system">Host-Ticketing-System</a>|
@@ -87,3 +87,4 @@ My journey in learning about computer hardware and software has led me to develo
 - <a href="https://github.com/Torrez1998/Azure-Tenable-Vulnerability--management-project">Azure-Tenable-Vulnerability-Management-Project</a>
 - <a href="https://github.com/Torrez1998/Threat-Hunting-Scenario-Tor">Threat-Hunting-Scenario-Tor</a>
 - <a href="https://github.com/Torrez1998/STIG-Remediation/tree/main">STIG-Remediation</a>
+- <a href="https://github.com/Torrez1998/Live-Traffic-SOC-HoneyNet">Azure Live Traffic SOC & Honeynet</a>
